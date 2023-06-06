@@ -1,7 +1,7 @@
 [package]
 name = "cloudi"
 description = "Rust CloudI API"
-version = "0.1.0"
+version = "0.2.0"
 edition = "2021"
 rust-version = "1.66.1"
 license = "MIT"
