@@ -1,7 +1,7 @@
 [package]
 name = "cloudi"
 description = "Rust CloudI API"
-version = "0.2.0"
+version = "2.0.6"
 edition = "2021"
 rust-version = "1.66.1"
 license = "MIT"
@@ -12,4 +12,4 @@ keywords = ["api", "framework", "distributed"]
 categories = ["api-bindings", "concurrency", "development-tools::testing"]
 
 [dependencies]
-erlang_rs = "0.2.0"
+erlang_rs = "2.0.6"
